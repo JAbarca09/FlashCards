@@ -1,0 +1,33 @@
+html{
+  height: 100%;
+}
+
+body{
+  background-image: linear-gradient(to bottom right, #000066 0%, #66ffcc 100%);
+  background-repeat: no-repeat;
+}
+
+.WhiteHeader{
+  color: white;
+}
+
+.Button{
+  background-color:#024a71 !important;
+  border-color: #024a71 !important;
+  border-radius: 50px !important;
+  width: 125px;
+}
+
+.Button2{
+  background-color:aquamarine !important;
+  border-color: aquamarine !important;
+  color: black !important;
+  border-radius: 50px !important;
+  width: 125px;
+}
+
+.card{
+  height: 45vh;
+  width: 100%;
+  box-shadow: 10px 10px rgb(89, 89, 89);
+}

@@ -1,3 +1,6 @@
+This app was made in React Js, it utilized a SQL database that stores all the flash cards and their corresponding data. Furthermore, this application also utilizes an API that I built in order for the react application to communicate with the database to retrieve the information that is needed for the app to work.
+
+Here is the link to the site https://abarcajflashcards.azurewebsites.net.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
